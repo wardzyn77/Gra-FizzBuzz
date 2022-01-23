@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gra FizzBuzz", "Gra FizzBuzz\Gra FizzBuzz.csproj", "{333A0D03-4615-46C9-B7D4-4883399A820D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{333A0D03-4615-46C9-B7D4-4883399A820D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333A0D03-4615-46C9-B7D4-4883399A820D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333A0D03-4615-46C9-B7D4-4883399A820D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333A0D03-4615-46C9-B7D4-4883399A820D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43E2EA9B-AE42-4728-9B59-82486BDF785B}
+	EndGlobalSection
+EndGlobal
